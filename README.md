@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rhuan Nascimento Ferreira</h1>
 <h3 align="center">I'm a front-end developer</h3>
 
-- 🌱 I’m currently learning **Frameworks**
+<p align="center">- 🌱 I’m currently learning <b>Frameworks</b></p>
 
-- 📫 How to reach me **rhuan2414@gmail.com**
+<p align="center">- 📫 How to reach me <b>rhuan2414@gmail.com</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
