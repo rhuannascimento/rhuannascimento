@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rhuan2414@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 style="text-align: center;" align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nasc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasc" height="30" width="40" /></a>
 <a href="https://instagram.com/nasc_rhuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasc_rhuan" height="30" width="40" /></a>
