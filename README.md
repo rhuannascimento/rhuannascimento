@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhuan Nascimento Ferreira</h1>
 <h3 align="center">I'm a front-end developer</h3>
 
-<p align="center">- 🌱 I’m currently learning <b>Frameworks</b></p>
+<p align="center">- 🌱 I’m currently learning <b>Python and Docker</b></p>
 
 <p align="center">- 📫 How to reach me <b>rhuan2414@gmail.com</b></p>
 
