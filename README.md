@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TESSCI](https://tecsci.com.br)
 
-- 🌱 I’m currently learning **Advanced aspects in database, AI, Design patterns**
+- 🌱 I’m currently learning **Decision Support Systems, Systems Security and Auditing, Mobile Development**
 
 - 💬 Ask me about **TS, Vue.js, Software Engineering**
 
