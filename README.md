@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhuan Nascimento Ferreira</h1>
 <h3 align="center">I'm a front-end developer and scrum master</h3>
 
-- 🔭 I’m currently working on [TESSCI](https://tecsci.com.br)
+- 🔭 I’m currently working on [TECSCI](https://tecsci.com.br)
 
 - 🌱 I’m currently learning **Decision Support Systems, Systems Security and Auditing, Mobile Development**
 
