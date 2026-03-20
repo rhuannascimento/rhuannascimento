@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TECSCI](https://tecsci.com.br)
 
-- 🌱 I’m currently learning **System Security, Game Development, Network Flow Algorithms and Software Tests**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **TS, Vue.js, Software Engineering**
 
